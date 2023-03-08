@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #313541;
+  align-items: center;
+  justify-content: center;
+  color:white;
+}
+
+.container .box {
+  width: 200px;
+  height: 10%;
+  border-radius: 25px;
+  margin: 5px;
+  background-color: #fc684e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 3px 3px 2px rgb(250, 193, 193);
+}
